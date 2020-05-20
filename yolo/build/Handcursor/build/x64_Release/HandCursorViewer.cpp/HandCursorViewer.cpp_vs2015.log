@@ -1,0 +1,7 @@
+﻿  HandCursor.cpp
+c:\opencv_2.4.9\opencv\build\include\opencv2\flann\dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+HandCursor.cpp(43): warning C4101: 'timer' :참조되지 않은 지역 변수입니다.
+  main.cpp
+c:\opencv_2.4.9\opencv\build\include\opencv2\flann\dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+src\main.cpp(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'yolo_v2_class.hpp': No such file or directory
+  코드를 생성하고 있습니다...
